@@ -6,4 +6,4 @@ Inspired by https://github.com/Kur1oR3iko/AMDS-RE
 
 Failed to train a Japanese piper tts model (which could potentially run on raspberrypi), so tts still relies on requests sent to local inference model which runs on pc. But it's already faster than requesting online api
 
-TTS model: https://github.com/RVC-Boss/GPT-SoVITS
+TTS model: https://github.com/RVC-Boss/GPT-SoVITS tuning done with https://github.com/zl602/Makise_Kurisu_Voice_Source
