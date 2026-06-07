@@ -7,7 +7,7 @@ from character_skill import build_prompt_bundle
 # ==========================================
 # ⚙️ 1. 核心配置区域（请填写你的 API Key）
 # ==========================================
-DEEPSEEK_API_KEY = "sk-edf4d6174ca542eca584cc4b51ab4a63"
+DEEPSEEK_API_KEY = ""
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
 MODEL_NAME = "deepseek-chat"
 
