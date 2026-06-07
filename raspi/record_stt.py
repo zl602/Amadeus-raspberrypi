@@ -50,8 +50,8 @@ class Config:
     def __init__(self):
         # 填入控制台获取的app id和access token
         self.auth = {
-            "app_key": "1448459914",
-            "access_key": "vHWcTfDmmhXbVe1vvMhWCtS-6tW5GDTj"
+            "app_key": "",
+            "access_key": ""
         }
 
     @property
