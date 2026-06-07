@@ -54,7 +54,7 @@ class TTSClient:
 if __name__ == "__main__":
     # 请替换为你的 Tailscale IP
     PC_IP = "100.105.58.16"
-    client = TTSClient(f"http://{PC_IP}:8000", "324511")
+    client = TTSClient(f"http://{PC_IP}:8000", "******")
     
     # 测试对话
     client.speak("hiiii。")
