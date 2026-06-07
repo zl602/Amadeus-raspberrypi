@@ -7,7 +7,7 @@ import httpx
 app = FastAPI()
 
 # --- 配置区 ---
-SECRET_KEY = "324511"
+SECRET_KEY = "******"
 # 确保这个地址指向你已经在运行的 api_v2.py 服务
 TTS_BACKEND_URL = "http://127.0.0.1:9880/tts"
 
